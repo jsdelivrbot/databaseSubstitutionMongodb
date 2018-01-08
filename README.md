@@ -11,4 +11,7 @@ npm start: to run react/launch dev server at port 8080,
 mongod: to start mongo shell,
 node server (Make sure you CD ./ into the SERVERSIDE folder for this): to launch server at port 3008,
 
-
+*FUTURE GOALS*
+Transplate entire project into an authentication structure which utilizes Json Web Token Authentication
+Figure a way to connect or "join" the two MongoDB collections. 
+Deploy to Heroku 
